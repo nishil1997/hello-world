@@ -1,5 +1,8 @@
 git clone www.
 git add x.txt
+git add -A
 git commit -m "committed message" x.txt
+git push
 git push -u origin master
+git pull
 git remote add origin master (url)
