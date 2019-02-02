@@ -6,3 +6,12 @@ git push
 git push -u origin master
 git pull
 git remote add origin master (url)
+
+
+FLOW:
+
+pull changes made by others
+edit
+add
+commit
+push
