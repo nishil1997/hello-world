@@ -15,3 +15,9 @@ edit
 add
 commit
 push
+
+
+git branch  (default master)
+git branch newbranch   (makes a new branch  newbranch with all copy of master code) 
+git checkout newbranch   (change branch to master now any chnages made are not copied to master)
+
