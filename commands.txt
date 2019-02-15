@@ -1,7 +1,8 @@
 git clone www.
 git add x.txt
 git add -A
-git commit -m "committed message" x.txt
+git commit -m "committed message" x.txt   //one file
+git commit -a -m "committed message"    //all files
 git push
 git push -u origin master
 git pull
